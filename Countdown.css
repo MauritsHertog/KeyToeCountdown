@@ -1,0 +1,105 @@
+div {
+	background-color:white;
+	height:150px;
+	border-style: groove;
+	text-align:center;
+	width:150px;
+	margin-top:100px;
+	margin-left:500px;
+	float:left;
+}
+
+p.Dagen
+{
+	font-weight:bold;
+	font-family:verdana;
+	font-size:20px;
+	margin-top:-30px;
+	color:#20d890;
+}
+
+p.Days
+{
+	font-family:verdana;
+	font-size:80px;
+	margin-top:30px;
+	color:#256EFF;
+}
+
+
+p.Uren
+{
+	font-weight:bold;
+	font-family:verdana;
+	font-size:20px;
+	margin-top:-30px;
+	color:#20d890;
+}
+
+p.Hours
+{
+	font-family:verdana;
+	font-size:80px;
+	margin-top:30px;
+	color:#256EFF;
+}
+
+p.Minuten
+{
+	font-weight:bold;
+	font-family:verdana;
+	font-size:20px;
+	margin-top:-30px;
+	color:#20d890;
+}
+
+p.Minutes
+{
+	font-family:verdana;
+	font-size:80px;
+	margin-top:30px;
+	color:#256EFF;
+}
+
+p.Secondes
+{
+	font-weight:bold;
+	font-family:verdana;
+	font-size:20px;
+	margin-top:-30px;
+	color:#20d890;
+}
+
+p.Seconds
+{
+	font-family:verdana;
+	font-size:80px;
+	margin-top:30px;
+	color:#23E197;
+}
+
+div.test {
+	background-color:white;
+	height:150px;
+	border-style: groove;
+	text-align:center;
+	width:150px;
+	margin-left:50px;
+	margin-top:100px;
+	float:left;
+}
+
+
+img 
+{
+	height:300px;
+	margin-left:550px;
+}
+
+.batje
+{
+	float:right;
+	margin-top:-200px;
+	height:200px;
+	margin-right:600px;
+}
